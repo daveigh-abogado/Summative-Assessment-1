@@ -76,7 +76,7 @@ mentioned a while ago. <br> <br> (insight/reaction here)
 <!--Lotto Section, just used monty hall css formatting-->
 <div class="pcso-discussion">
 <div id="left">
-The UltraLotto 6/58 is a lottery game wherein the player buys a card for 20 pesos, and picks out 6 numbers ranging from 1-58, wherein a number can only be picked once. The current prizepool is 50 Million Pesos, leading some to believe that buying many cards would give them better chances.<br><br>This is hardly true as the possibility of getting all 6 numbers correct is so small, specifically 1/40,475,358 such that even buying a few more cards would only add mere fractions of a percentage to that possibility.
+The PCSO Lottery Draw is the Philippine Charity Sweepstakes Office's television game show which aired daily on the People's Television Network since March 8, 1995. The UltraLotto 6/58 is a lottery game wherein the player buys a card for 20 pesos, and picks out 6 numbers ranging from 1-58, wherein a number can only be picked once. The current prizepool is 50 Million Pesos, leading some to believe that buying many cards would give them better chances.<br><br>This is hardly true as the possibility of getting all 6 numbers correct is so small, specifically 1/40,475,358 such that even buying a few more cards would only add mere fractions of a percentage to that possibility.
 </div>
 <div id="right">
 <img src="winner.gif" alt="You are a Winner!">
@@ -84,13 +84,28 @@ The UltraLotto 6/58 is a lottery game wherein the player buys a card for 20 peso
 </div>
 
 <div class="pcso-solution">
+Like other PCSO lottery games, Ultra Lotto 6/58 requires a bettor to choose six (6) winning unique numbers ranging from 1 to 58. To bag the jackpot prize, one’s chosen 6 numbers must match the numbers officially drawn by the PCSO during the lottery draw date. Should there be two or more winners, the jackpot price will be equally divided among them (PCSO). 
+Since the order of the drawn numbers does not matter, the odds of winning such a lottery game can be determined using the combination formula.
+
+<img src="combi formula.png">
+
+Where *n* is the total number of items in a given set and *r* is the number of chosen items from the set. 
+
+To determine the number of possible winning combinations we will let n = 58 and r = 6. <br>
+
+<img src="solu.png">
+
+Assuming that each ticket costs 20 PHP, you will need 809, 507, 160 PHP to cover all the game expenses. In line with this, the 50M jackpot price is just about 6.17% of the total expense, so betting on all combinations is definitely not worth it.
+</div>
+
+<div class="pcso-conclusion">
 If we were to calculate how many cards it would take to get all possible combinations of numbers, we would need to purchase 40,475,358 cards, costing us 809,507,160 pesos, which is immensely greater than the 50 million peso prize, thus incurring a massive loss on the bettor.
 </div>
 
 <footer>
 <h2>References</h2>
-
-<https://mathworld.wolfram.com/MontyHallProblem.html>
+https://www.pcso.gov.ph/Games/Lotto/UltraLotto658.aspx
+https://mathworld.wolfram.com/MontyHallProblem.html
 <!-- there's details about the citation like the author and date at the bottom of the page so if we cite this in another format then there ya go -->
-<br> <https://ysbecca.github.io/random/2017/10/31/monty-hall.html>
+https://ysbecca.github.io/random/2017/10/31/monty-hall.html
 </footer>

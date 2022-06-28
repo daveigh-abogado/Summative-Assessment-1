@@ -138,6 +138,14 @@ h2{
 }
 
 .pcso-solution {
+    background-color: black;
+    color: white;
+    padding: 40px;
+    font-family: georgia, serif;
+    font-size: 25px;
+}
+
+.pcso-conclusion {
     background-color: #7894FF;
     color: black;
     padding: 40px;
