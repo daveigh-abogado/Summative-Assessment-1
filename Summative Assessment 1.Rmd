@@ -137,7 +137,7 @@ mentioned a while ago. <br> <br> (insight/reaction here)
 
 </section>
 
-::: monty-body <!--Lotto Section, just used monty hall css formatting-->
+<!--Lotto Section, just used monty hall css formatting-->
 The UltraLotto 6/58 is a lottery game wherein the player buys a card for 20 pesos, and picks out 6 numbers ranging from 1-58, wherein a number can only be picked once. The current prizepool is 50 Million Pesos, leading some to believe that buying many cards would give them better chances. This is hardly true as the possibility of getting all 6 numbers correct is so small, specifically 1/40,475,358 such that even buying a few more cards would only add mere fractions of a percentage to that possibility. If we were to calculate how many cards it would take to get all possible combinations of numbers, we would need to purchase 40,475,358 cards, costing us 809,507,160 pesos, which is immensely greater than the 50 million peso prize, thus incurring a massive loss on the bettor.
 :::
 
