@@ -84,8 +84,7 @@ The PCSO Lottery Draw is the Philippine Charity Sweepstakes Office's television 
 </div>
 
 <div class="pcso-solution">
-Like other PCSO lottery games, Ultra Lotto 6/58 requires a bettor to choose six (6) winning unique numbers ranging from 1 to 58. To bag the jackpot prize, one’s chosen 6 numbers must match the numbers officially drawn by the PCSO during the lottery draw date. Should there be two or more winners, the jackpot price will be equally divided among them (PCSO). 
-Since the order of the drawn numbers does not matter, the odds of winning such a lottery game can be determined using the combination formula.
+Like other PCSO lottery games, Ultra Lotto 6/58 requires a bettor to choose six (6) winning unique numbers ranging from 1 to 58. To bag the jackpot prize, one’s chosen 6 numbers must match the numbers officially drawn by the PCSO during the lottery draw date. Should there be two or more winners, the jackpot price will be equally divided among them (PCSO).<br><br>Since the order of the drawn numbers does not matter, the odds of winning such a lottery game can be determined using the combination formula.
 
 <img src="combi formula.png">
 
