@@ -3,7 +3,7 @@ h1.title {
     font-family: 'Playfair Display', serif;
     text-align: center;
     color: white;
-    font-size: 25px;
+    font-size: 18px;
 }
 h1{
     color: white;
@@ -16,18 +16,26 @@ body{
     background-color: black;
     margin: 0;
 }
-.monty-title {
+.problem-title {
     padding: 20px;
     background-color: #FF7717;
     color: black;
     text-align: center;
 }
-.monty-body {
+
+.pcso-problem {
+    padding: 20px;
+    background-color: #FFDB43;
+    color: black;
+    text-align: center;
+}
+
+.body-text, #left {
     background-color: white;
     color: black;
     padding: 40px;
     font-family: georgia, serif;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 h2{
@@ -109,6 +117,40 @@ h2{
     margin-right: auto;
     margin-top: 129%;
 }
+
+.pcso-discussion {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 3fr, 1fr;
+}
+
+
+#right {
+    background-color: #FF7717;
+}
+
+#right img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    top: 50%;
+    width: 65%;
+}
+
+.pcso-solution {
+    background-color: #7894FF;
+    color: black;
+    padding: 40px;
+    font-family: georgia, serif;
+    font-size: 25px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 100px;
+}
+
 
 
 
