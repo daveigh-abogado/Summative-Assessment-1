@@ -16,100 +16,36 @@ THE<br>*MONTY HALL*<br>PROBLEM
 
 </h1>
 
-::: monty-title
-<h2>
+<div class="monty-title">
+<h2>The Problem</h2>
+</div>
 
-The Problem
+<section class="doors">
 
-</h2>
-:::
+<div id="door1">
+<img src="door_1.png" alt="Door 1">
+</div>
 
-<section class="section-plans" id="section-plans">
+<div id="door2">
+<div class="flip-card-container">
+<div class="flip-card">
+<div class="flip-card-front">
+<img src="door_2.png" alt="Door 2">
+</div>
+<div class="flip-card-back">
+<img src="door_2_back.png" alt="Door 2 Goat">
+</div>
+</div>
+</div> 
+</div>
 
-::: {.u-center-text .u-margin-bottom-big}
-:::
+<div id="door3">
+<img src="door_1.png" alt="Door 3"> 
+</div>
 
-::: row
-::: col-1-of-3
-::: card
-::: {.card__side .card__side--front-1}
-::: {.card__title .card__title--1}
-<i class="fas fa-paper-plane"></i>
+</section>    
 
-<h4 class="card__heading">
 
-DOOR 1 (PLACEHOLDER UNTIL IM DONE MAKING THE GRAPHICS
-
-</h4>
-:::
-:::
-
-::: {.card__side .card__side--back .card__side--back-1}
-::: card__cta
-::: card__price-box
-placeholder text until im done with the graphics
-:::
-
-<a href="#popup" class="btn btn--white">Select</a>
-:::
-:::
-:::
-:::
-
-::: col-1-of-3
-::: card
-::: {.card__side .card__side--front-2}
-::: {.card__title .card__title--2}
-<i class="fas fa-plane"></i>
-
-<h4 class="card__heading">
-
-DOOR 2 (PLACEHOLDER UNTIL IM DONE MAKING THE GRAPHIC
-
-</h4>
-:::
-:::
-
-::: {.card__side .card__side--back .card__side--back-2}
-::: card__cta
-::: card__price-box
-placeholder text until im done with the graphics
-:::
-
-<a href="#popup" class="btn btn--white">Select</a>
-:::
-:::
-:::
-:::
-
-::: col-1-of-3
-::: card
-::: {.card__side .card__side--front-3}
-::: {.card__title .card__title--3}
-<i class="fas fa-rocket"></i>
-
-<h4 class="card__heading">
-
-DOOR 3 (PLACEHOLDER UNTIL IM DONE MAKING THE GRAPHIC
-
-</h4>
-:::
-:::
-
-::: {.card__side .card__side--back .card__side--back-3}
-::: card__cta
-::: card__price-box
-placeholder text until im done with the graphics
-:::
-
-<a href="#popup" class="btn btn--white">Select</a>
-:::
-:::
-:::
-:::
-:::
-
-</section>
 
 ::: monty-body
 The Monty Hall problem starts with 3 doors. Behind 1 of these doors is a
