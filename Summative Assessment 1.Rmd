@@ -138,7 +138,8 @@ mentioned a while ago. <br> <br> (insight/reaction here)
 </section>
 
 <!--Lotto Section, just used monty hall css formatting-->
-The UltraLotto 6/58 is a lottery game wherein the player buys a card for 20 pesos, and picks out 6 numbers ranging from 1-58, wherein a number can only be picked once. The current prizepool is 50 Million Pesos, leading some to believe that buying many cards would give them better chances. This is hardly true as the possibility of getting all 6 numbers correct is so small, specifically 1/40,475,358 such that even buying a few more cards would only add mere fractions of a percentage to that possibility. If we were to calculate how many cards it would take to get all possible combinations of numbers, we would need to purchase 40,475,358 cards, costing us 809,507,160 pesos, which is immensely greater than the 50 million peso prize, thus incurring a massive loss on the bettor.
+The PCSO Lottery Draw is the Philippine Charity Sweepstakes Office's television game show which aired daily on the People's Television Network since March 8, 1995. The UltraLotto 6/58 is a lottery game wherein the player buys a card for 20 pesos, and picks out 6 numbers ranging from 1-58, wherein a number can only be picked once. The current prizepool is 50 Million Pesos, leading some to believe that buying many cards would give them better chances. This is hardly true as the possibility of getting all 6 numbers correct is so small, specifically 1/40,475,358 such that even buying a few more cards would only add mere fractions of a percentage to that possibility. If we were to calculate how many cards it would take to get all possible combinations of numbers, we would need to purchase 40,475,358 cards, costing us 809,507,160 pesos, which is immensely greater than the 50 million peso prize, thus incurring a massive loss on the bettor. <br>
+The UltraLotto 6/58 might appear to be an agenda to gain money because of the profit gained from every ticket and the hefty pot prize. However, considering how lotto works, the chances of winning are guaranteed to decrease for everyone who takes part in the draw. Therefore, in this problem, we need to find out how much money would be spent in order to have a 100% chance of getting the lucky number.
 :::
 
 ::: monty-body
@@ -148,6 +149,7 @@ References
 
 </h2>
 
+<https://www.pcso.gov.ph/Games/Lotto/UltraLotto658.aspx>
 <https://mathworld.wolfram.com/MontyHallProblem.html>
 <!-- there's details about the citation like the author and date at the bottom of the page so if we cite this in another format then there ya go -->
 <br> <https://ysbecca.github.io/random/2017/10/31/monty-hall.html>
