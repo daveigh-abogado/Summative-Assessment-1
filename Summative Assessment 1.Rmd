@@ -69,10 +69,15 @@ means that, given we switch doors at the end, we now have 2 doors that
 will lead to victory, or essentially a 2/3 chance of winning like
 mentioned a while ago. <br> <br> 
 
-To further understand why switching works, suppose there are 100 doors to choose from and Monty opens 98 with goats, leaving two for you to pick from. When you picked your first door, you had 1/100 chance of getting the jackpot prize. However, MOnty now presents you with a filtered choice and, thus, giving you a higher chance of winning the car. This is why the better option is to switch instead of staying with your first pick.
+To further understand why switching works, suppose there are 100 doors to choose from and Monty opens 98 with goats, leaving two for you to pick from. When you picked your first door, you had 1/100 chance of getting the jackpot prize. However, Monty now presents you with a filtered choice and, thus, giving you a higher chance of winning the car. This is why the better option is to switch instead of staying with your first pick.
 </div>
 
+<div class="pcso-title">
 <h1>PCSO<br>*ULTRA LOTTO 6/58*</h1>
+<img class="sticker4" src="ticket.png">
+<img class="sticker5" src="ball.png">
+<img class="sticker6" src="money.png">
+</div>
 
 <div class="pcso-problem">
 <h2>The Problem</h2>

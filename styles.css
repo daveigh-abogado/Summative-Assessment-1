@@ -47,6 +47,31 @@ body{
     right: 320px;
 }
 
+
+.sticker4 {
+    width: 15%;
+    display: block;
+    position: absolute;
+    top: 180px;
+    left: 380px;
+}
+
+.sticker5 {
+    width: 9%;
+    display: block;
+    position: absolute;
+    top: 500px;
+    left: 320px;
+}
+
+.sticker6 {
+    width: 12%;
+    display: block;
+    position: absolute;
+    top: 358px;
+    right: 320px;
+}
+
 .pcso-problem {
     padding: 20px;
     background-color: #FFDB43;
