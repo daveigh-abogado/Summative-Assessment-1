@@ -95,7 +95,10 @@ Where *n* is the total number of items in a given set and *r* is the number of c
 
 To determine the number of possible winning combinations we will let n = 58 and r = 6. <br>
 
-<img src="solu.png">
+<img src="solu1.png">
+<img src="solu2.png">
+<img src="solu3.png">
+<img src="solu4.png">
 
 Assuming that each ticket costs 20 PHP, you will need 809, 507, 160 PHP to cover all the game expenses. In line with this, the 50M jackpot price is just about 6.17% of the total expense, so betting on all combinations is definitely not worth it.
 </div>
