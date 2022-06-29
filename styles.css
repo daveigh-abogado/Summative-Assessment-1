@@ -23,6 +23,30 @@ body{
     text-align: center;
 }
 
+.sticker1 {
+    width: 15%;
+    display: block;
+    position: absolute;
+    top: 180px;
+    left: 380px;
+}
+
+.sticker2{
+    width:9%;
+    display: block;
+    position: absolute;
+    top: 500px;
+    left: 320px;
+}
+
+.sticker3{
+    width:12%;
+    display: block;
+    position: absolute;
+    top: 358px;
+    right: 320px;
+}
+
 .pcso-problem {
     padding: 20px;
     background-color: #FFDB43;
