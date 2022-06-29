@@ -14,11 +14,10 @@ editor_options:
 
 <div class="problem-title">
 <h2>The Problem</h2>
-</div>
-
 <img class="sticker1" src="car.png">
 <img class="sticker2" src="goat1.png">
 <img class="sticker3" src="goat2.png">
+</div>
 
 <div class="body-text">
 The Monty Hall problem starts with 3 doors. Behind 1 of these doors is a
