@@ -49,27 +49,27 @@ body{
 
 
 .sticker4 {
-    width: 15%;
+    width: 12%;
     display: block;
     position: absolute;
-    top: 180px;
-    left: 380px;
+    top: 2450px;
+    left: 360px;
 }
 
 .sticker5 {
-    width: 9%;
+    width: 12%;
     display: block;
     position: absolute;
-    top: 500px;
+    top: 2750px;
     left: 320px;
 }
 
 .sticker6 {
-    width: 12%;
+    width: 9%;
     display: block;
     position: absolute;
-    top: 358px;
-    right: 320px;
+    top: 2600px;
+    right: 250px;
 }
 
 .pcso-problem {
