@@ -120,8 +120,17 @@ If we were to calculate how many cards it would take to get all possible combina
 
 <footer>
 <h2>References</h2>
-https://www.pcso.gov.ph/Games/Lotto/UltraLotto658.aspx
-https://mathworld.wolfram.com/MontyHallProblem.html
-<!-- there's details about the citation like the author and date at the bottom of the page so if we cite this in another format then there ya go -->
-https://ysbecca.github.io/random/2017/10/31/monty-hall.html
+Glen, Stephanie. “Monty Hall Problem: Solution Explained Simply.” Statistics How To, 13 June 2021, <br> https://www.statisticshowto.com/probability-and-statistics/monty-hall-problem/.
+<br>
+<br>
+Lucas, Stephen, et al. “The Monty Hall Problem, Reconsidered.” Mathematics Magazine, vol. 82, no. 5, 2009, pp.<br> 332–342., https://doi.org/10.4169/002557009x478355. Accessed 29 June 2022. 
+<br>
+<br>
+Stone, Rebecca. “Simple Proof of Solution to the Monty Hall Problem.” Rebecca Stone Blog, 31 Oct. 2017,<br> https://ysbecca.github.io/random/2017/10/31/monty-hall.html.<br>
+<br>
+“UltraLotto 6/58.” Philippine Charity Sweepstakes Office, https://www.pcso.gov.ph/Games/Lotto/UltraLotto658.aspx.
+<br>
+<br>
+Weisstein, Eric W. “Monty Hall Problem.” Wolfram MathWorld, https://mathworld.wolfram.com/MontyHallProblem.html. 
 </footer>
+
