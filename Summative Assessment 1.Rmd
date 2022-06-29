@@ -67,7 +67,9 @@ switching would surely result in a goat. While the odds may seem equal,
 take note that we have 2 options for the goat behind the door. This
 means that, given we switch doors at the end, we now have 2 doors that
 will lead to victory, or essentially a 2/3 chance of winning like
-mentioned a while ago. <br> <br> (insight/reaction here)
+mentioned a while ago. <br> <br> 
+
+To further understand why switching works, suppose there are 100 doors to choose from and Monty opens 98 with goats, leaving two for you to pick from. When you picked your first door, you had 1/100 chance of getting the jackpot prize. However, MOnty now presents you with a filtered choice and, thus, giving you a higher chance of winning the car. This is why the better option is to switch instead of staying with your first pick.
 </div>
 
 <h1>PCSO<br>*ULTRA LOTTO 6/58*</h1>
@@ -87,7 +89,7 @@ The PCSO Lottery Draw is the Philippine Charity Sweepstakes Office's television 
 </div>
 
 <div class="pcso-solution">
-Like other PCSO lottery games, Ultra Lotto 6/58 requires a bettor to choose six (6) winning unique numbers ranging from 1 to 58. To bag the jackpot prize, one’s chosen 6 numbers must match the numbers officially drawn by the PCSO during the lottery draw date. Should there be two or more winners, the jackpot price will be equally divided among them (PCSO).<br><br>Since the order of the drawn numbers does not matter, the odds of winning such a lottery game can be determined using the combination formula.
+Like other PCSO lottery games, UltraLotto 6/58 requires a bettor to choose six (6) winning unique numbers ranging from 1 to 58. To bag the jackpot prize, one’s chosen 6 numbers must match the numbers officially drawn by the PCSO during the lottery draw date. Should there be two or more winners, the jackpot price will be equally divided among them (PCSO).<br><br>Since the order of the drawn numbers does not matter, the odds of winning such a lottery game can be determined using the combination formula.
 
 <img src="combi formula.png">
 
