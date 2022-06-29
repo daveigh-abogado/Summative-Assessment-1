@@ -114,6 +114,7 @@ Assuming that each ticket costs 20 PHP, you will need 809, 507, 160 PHP to cover
 <img src="loss.gif" alt="You Lost!">
 </div>
 <div id="right-2">
+<h2>Do we win?</h2>
 If we were to calculate how many cards it would take to get all possible combinations of numbers, we would need to purchase 40,475,358 cards, costing us 809,507,160 pesos, which is immensely greater than the 50 million peso prize, thus incurring a massive loss on the bettor.
 </div>
 </div>
@@ -132,5 +133,6 @@ Stone, Rebecca. “Simple Proof of Solution to the Monty Hall Problem.” Rebecc
 <br>
 <br>
 Weisstein, Eric W. “Monty Hall Problem.” Wolfram MathWorld, https://mathworld.wolfram.com/MontyHallProblem.html. 
+
 </footer>
 
