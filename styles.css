@@ -185,10 +185,29 @@ h2{
     background-color: #FF7717;
 }
 
-#right img{
+.pcso-conclusion {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr, 3fr;
+}
+
+#right-2 {
+    background-color: white;
+    color: black;
+    padding: 50px;
+    font-family: georgia, serif;
+    font-size: 25px;
+}
+
+#left-2 {
+    background-color: #7894FF;
+}
+
+#right img, #left-2 img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 50px;
     top: 50%;
     width: 65%;
 }
